@@ -24,7 +24,7 @@ Node.js (v14 or higher)
 npm
 Steps:
 Clone the Repository:
-git clone https://github.com/Jeeva-RP/weather-app.git
+git clone https://github.com/dhineshrv/weather_app
 cd weather-app
 Setup Backend:
 cd backend
